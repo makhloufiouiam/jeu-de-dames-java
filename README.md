@@ -53,8 +53,6 @@ jeu-de-dames-java/
 - Ajouter un mode contre l'ordinateur (IA)
 - Passer d'une version console à une interface graphique enrichie *(si applicable selon ta version finale)*
 
-## Captures d'écran
-_(à ajouter : plateau de jeu, mise en surbrillance des coups, fin de partie)_
 
 ## Auteur
-Wiam — Étudiante en géoinformatique, FST Tanger (projet réalisé en équipe)
+Wiam — Étudiante en géoinformatique, FST Tanger 
